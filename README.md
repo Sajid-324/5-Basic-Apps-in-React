@@ -1,10 +1,10 @@
 # 5-Basic-Apps-in-React
 This repository contains 5 basic react apps as follwing,
-- bmi-calculator
-- to-do
-- prime-checker
-- search-string
-- stop-watch
+- bmi-calculator | https://bmi-calculator-11.web.app/
+- to-do | https://to-do-22.web.app/
+- prime-checker | https://prime-checker-33.web.app/
+- search-string | https://search-string-44.web.app/
+- stop-watch | https://stop-watch-5.web.app/
 
 
 # Getting Started with Create React App
